@@ -1,0 +1,8 @@
+# Documento de trabajo interno: su función la cumple ahora README.md
+Doc_Principal.txt
+
+# Artefactos generados por los scripts de Python
+boxplot_anova.png
+curvas_calentamiento.png
+__pycache__/
+*.pyc
